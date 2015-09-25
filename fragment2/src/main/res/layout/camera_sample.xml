@@ -21,7 +21,7 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <fragment android:name="com.example.android.hcgallery.CameraFragment"
+    <fragment android:name="com.neolun.dev.fragment2.CameraFragment"
         android:id="@+id/camera_frag"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

@@ -46,12 +46,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RemoteViews;
 
-import com.example.android.hcgallery.R;
 
 public class MainActivity extends AppCompatActivity implements ActionBar.TabListener {
 
     private static final int NOTIFICATION_DEFAULT = 1;
-    private static final String ACTION_DIALOG = "com.example.android.hcgallery.action.DIALOG";
+    private static final String ACTION_DIALOG = "com.neolun.dev.fragment2.action.DIALOG";
 
     private View mActionBarView;
     private Animator mCurrentTitlesAnimator;

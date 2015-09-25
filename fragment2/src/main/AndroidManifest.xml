@@ -15,7 +15,7 @@
   limitations under the License.
  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.android.hcgallery" android:versionCode="1"
+          package="com.neolun.dev.fragment2" android:versionCode="1"
           android:versionName="1.0">
 
     <uses-sdk android:minSdkVersion="11" />
@@ -37,7 +37,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             <intent-filter>
-                <action android:name="com.example.android.hcgallery.action.DIALOG" />
+                <action android:name="com.neolun.dev.fragment2.action.DIALOG" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>

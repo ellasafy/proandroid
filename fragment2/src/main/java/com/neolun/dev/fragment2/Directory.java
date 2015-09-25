@@ -17,7 +17,6 @@
 package com.neolun.dev.fragment2;
 
 
-import com.example.android.hcgallery.R;
 
 
 public class Directory {

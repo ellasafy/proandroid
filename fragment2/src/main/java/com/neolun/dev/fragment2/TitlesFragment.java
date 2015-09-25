@@ -30,7 +30,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.android.hcgallery.R;
 
 public class TitlesFragment extends ListFragment {
     private int mCategory = 0;

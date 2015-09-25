@@ -45,7 +45,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.android.hcgallery.R;
+
 
 public class ContentFragment extends Fragment {
     private View mContentView;

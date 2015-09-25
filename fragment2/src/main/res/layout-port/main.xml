@@ -20,14 +20,14 @@
     android:layout_height="match_parent"
     android:id="@+id/frags">
 
-    <fragment class="com.example.android.hcgallery.TitlesFragment"
+    <fragment class="com.neolun.dev.fragment2.TitlesFragment"
             android:id="@+id/frag_title"
             android:visibility="gone"
             android:layout_marginTop="?android:attr/actionBarSize"
             android:layout_width="match_parent"
             android:layout_height="@dimen/titles_size"/>
 
-    <fragment class="com.example.android.hcgallery.ContentFragment"
+    <fragment class="com.neolun.dev.fragment2.ContentFragment"
             android:id="@+id/frag_content"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

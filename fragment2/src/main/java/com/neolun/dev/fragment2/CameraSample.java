@@ -19,7 +19,6 @@ package com.neolun.dev.fragment2;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.android.hcgallery.R;
 
 public class CameraSample extends Activity {
 
